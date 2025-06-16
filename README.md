@@ -1,6 +1,6 @@
 # SQL Internship Tasks
 
-This repository contains SQL tasks completed using MySQL Workbench as part of internship-level learning. Tasks are organized by week and skill level.
+This repository contains SQL tasks completed using MySQL Workbench as part of internship-level learning. Tasks are organized by weeks.
 
  Week 1 – Basic Tasks
 - Create database and tables (`Employees`, `Departments`)
