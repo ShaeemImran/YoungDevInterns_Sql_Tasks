@@ -16,7 +16,8 @@ This repository contains SQL tasks completed using MySQL Workbench as part of in
 - `ROW_NUMBER()` and `RANK()` window functions
 - Transactions with `SAVEPOINT`, `ROLLBACK`, and `COMMIT`
 
- How to Run
+ How to Run:
+ 
 These queries were done on the MYSQL WORKBENCH, to run these queries please go to MYSQL workbench and, execute each block step-by-step.
 
 
